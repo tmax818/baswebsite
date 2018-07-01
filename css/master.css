@@ -15,6 +15,10 @@ header {
   background-color: orange;
 }
 
+footer {
+  font-size: 8px;
+}
+
 p {
   font-size: 20px;
 }
